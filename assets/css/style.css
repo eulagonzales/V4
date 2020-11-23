@@ -123,6 +123,9 @@ section {
 }
 
 /*custom */
+.home {
+    height: 100vh;
+}
 
 .num {
     font-family: 'Source Code Pro', monospace;
@@ -359,21 +362,21 @@ footer a:hover {
     }
 
     .name {
-        font-size: 2.5rem;
+        font-size: 2.1rem;
         font-family: 'Libre Baskerville', serif;
         font-weight: 600;
         color: var(--neutral);
     }
 
     .description {
-        font-size: 2.3rem;
+        font-size: 2rem;
         font-family: 'Libre Baskerville', serif;
         font-weight: 700;
         color: var(--ash-color);
     }
 
     .intro-details {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         color: var(--ash-color);
     }
 }
